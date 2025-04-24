@@ -3,6 +3,12 @@
 This project demonstrates a real-world **Business Intelligence automation pipeline** using **SSIS**, **SSRS**, **Power BI**, and **Informatica** — designed to handle high-volume sales data and enable self-service analytics for business teams.
 
 ---
+## 📈 Power BI Dashboard
+
+This dashboard visualizes revenue trends, discount impacts, and rep performance.
+
+![Power BI Overview](powerbi/dashboard_overview.png)
+---
 
 ## 💼 Use Case
 
